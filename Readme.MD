@@ -1,6 +1,6 @@
 # okta-mcp-server
 
-An AI-powered Okta IT automation server built with [Claude Code](https://claude.ai/code) and the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/). Enables natural language IT operations — provisioning users, auditing MFA compliance, managing groups, and more — all via conversation with Claude.
+An AI-powered Okta IT automation server built with [Claude Code](https://claude.ai/code) and the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/). Enables natural language IT operations, provisioning users, auditing MFA compliance, managing groups, and more. All via conversation with Claude.
 
 ---
 
